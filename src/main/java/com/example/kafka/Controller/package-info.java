@@ -1,1 +1,1 @@
-package com.example.kafka.Controller;
+package com.example.kafka.controller;

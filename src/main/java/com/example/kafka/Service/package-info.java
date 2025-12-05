@@ -1,1 +1,1 @@
-package com.example.kafka.Service;
+package com.example.kafka.service;
